@@ -7,3 +7,4 @@ new line for testing commit history migration after project move
 testing commit history migration after project move
 
 testing commit history migration after project move
+testing commit history migration after project move
