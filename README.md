@@ -40,3 +40,5 @@ test line
 
 New Feature
 New line
+new line
+new line
