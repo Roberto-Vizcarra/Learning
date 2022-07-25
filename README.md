@@ -37,3 +37,6 @@ test line
 test line
 test line 
 >>>>>>> main
+
+New Feature
+New line
