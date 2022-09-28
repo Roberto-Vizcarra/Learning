@@ -1,4 +1,4 @@
-name: Deployment
+name: Release
 
 on:
   release:
@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     environment: Production
     steps:
-      - name: Deploy
+      - name: Release
         uses: actions/checkout@v3
