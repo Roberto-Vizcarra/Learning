@@ -10,6 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     environment: Production
     steps:
-      - name: deploy
-       uses: actions/checkout@v3
-        # ...deployment-specific steps
+      - name: Deploy
+        uses: actions/checkout@v3
