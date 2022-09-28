@@ -1,12 +1,12 @@
-name: Release
+name: deployment
 
 on:
   release:
-
+    types: [published]
 jobs:
   deployment:
     runs-on: ubuntu-latest
-    environment: Production
+    environment: production
     steps:
-      - name: Release
-        uses: actions/checkout@v3
+      - name: deploy
+        run: echo Release
