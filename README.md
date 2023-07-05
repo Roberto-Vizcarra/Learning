@@ -137,3 +137,5 @@ TST-1 testing automation rule for fix version change
 TST-1 testing automation rule for fix version change 2
 
 TST-1 testing automation rule for fix version change 3
+
+TST-1 testing automation rule for fix version change 4
