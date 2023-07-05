@@ -125,3 +125,7 @@ tst-2 testing git rollup with plain git connection
 
 
 Testing merge from GKC
+
+
+TST-1 testing automation rule for fix version change
+TST-1 testing automation rule for fix version change
