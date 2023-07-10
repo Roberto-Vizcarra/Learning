@@ -1,43 +1,6 @@
 # Learning
 Learning Repo
 
-
-<<<<<<< HEAD
-new line
-new line
-=======
-Webhook test line
-
-new line
-commit testing in description only
-
-new line
-commit testing with title
-
-New line
-New Line
-
-SC- test-2
-new line
-test line
-
-test3
-test3
-
-
-Test line
-test line
-
-test line
-testline
-
-test line
-test line
-
-test line
-test line 
->>>>>>> main
-
 New Feature
 New line
 new line
@@ -85,49 +48,5 @@ New Feature line
 New Feature
 New Feature
 
-retroactive pr linking test 1 - initial commit to enable PR
-
-Demo Line
-
-demo line 3
-
-
-Bug Fix Line
-
-Siloing test 2 Github to Per-1
-
-
-Bug Fix Line
-Bug fix line 2
-
-Bug fix line 2  
-
-Testing reporting - cycle time
-
-testing whitespace project issue key linking
-
-testing whitespace project issue key linking 2
-
-testing unprocessible entity error
-
-tst-9
-
-GH-1 - Testing links
-
-#testing for 1599605056
-
-
-tst-2 testing git rollup with plain git connection
-tst-2 testing git rollup with plain git connection
-tst-2 testing git rollup with plain git connection
-tst-2 testing git rollup with plain git connection
-tst-2 testing git rollup with plain git connection
-
-
-Testing merge from GKC
-
-
-TST-1 testing automation rule for fix version change
-TST-1 testing automation rule for fix version change
-
 Testing for AT-9
+=======
