@@ -52,3 +52,5 @@ Testing for AT-9
 =======
 
 GL remote test
+
+gl remote push test 2
