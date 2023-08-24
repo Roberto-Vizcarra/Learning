@@ -56,3 +56,5 @@ GL remote test
 gl remote push test 2
 
 GL remote push test 3
+
+issue key pattern test AP-4
