@@ -63,3 +63,6 @@ issue key pattern test [AP-4]
 
 issue key pattern test [AP-4]
 #Key in title
+
+[AP-4] issue key pattern test
+#Key in title
