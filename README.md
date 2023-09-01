@@ -69,3 +69,5 @@ issue key pattern test [AP-4]
 
 [AP-4] issue key pattern test
 #Key in title
+
+AP-5 Git tag example
