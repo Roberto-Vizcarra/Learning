@@ -71,3 +71,6 @@ issue key pattern test [AP-4]
 #Key in title
 
 AP-5 Git tag example
+
+AP-9
+testing automation
