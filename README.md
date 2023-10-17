@@ -74,3 +74,8 @@ AP-5 Git tag example
 
 AP-9
 testing automation
+
+Bug Fix Line
+Bug Fix Line
+Bug Fix Line
+Bug Fix Line
