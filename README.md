@@ -135,3 +135,6 @@ Bug Fix Lines
 Bug Fix Lines
 
 Bug Fix Lines
+
+Indexing trigger icon test
+-commiting without jira issue key
