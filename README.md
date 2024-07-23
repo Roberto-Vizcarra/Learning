@@ -101,10 +101,7 @@ Bug fix line
 Bug fix line
 
 
-Change line
-Change line
-Change line
-Change line
+New Feature lines
 
 
 Bug Fix Line
@@ -138,3 +135,14 @@ Bug Fix Lines
 
 Indexing trigger icon test
 -commiting without jira issue key
+
+
+New Feature lines
+New Feature lines
+New Feature lines
+New Feature lines
+
+
+New Feature lines
+
+New Feature lines
