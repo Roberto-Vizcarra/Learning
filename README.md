@@ -146,3 +146,5 @@ New Feature lines
 New Feature lines
 
 New Feature lines
+
+Testing A4J smart values for DC
