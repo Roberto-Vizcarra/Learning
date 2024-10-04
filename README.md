@@ -151,3 +151,4 @@ Commit Created Automation test
 
 AP-30
 Testing {{commit.repository.name}} variable in automation test
+{{commit.repository.name}}
