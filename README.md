@@ -152,3 +152,7 @@ Commit Created Automation test
 AP-30
 Testing {{commit.repository.name}} variable in automation test
 {{commit.repository.name}}
+
+
+Testing Automation for PR URl comment
+AP-32
