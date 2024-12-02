@@ -136,6 +136,11 @@ Bug Fix Lines
 Indexing trigger icon test
 -commiting without jira issue key
 
+Code Change to fix bug
+Code Change to fix bug
+Code Change to fix bug
+Code Change to fix bug
+
 
 New Feature lines
 New Feature lines
@@ -156,3 +161,14 @@ Testing {{commit.repository.name}} variable in automation test
 
 Testing Automation for PR URl comment
 AP-32
+
+Code Change to fix bug
+Code Change to fix bug
+Code Change to fix bug
+
+
+Code Change to fix bug
+
+Code Change to fix bug
+
+
