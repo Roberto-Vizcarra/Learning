@@ -177,6 +177,5 @@ TRNK-1
 Testing API results after key change
 DEV-1
 
-JSM-1 test
 C174227S-1
 Testing Jira key 
