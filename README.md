@@ -190,3 +190,10 @@ Testing Link/Unlink3
 Testing Link/Unlink 4
 
 Testing Link/Unlink 5
+
+Testing PR details view in GL
+Testing PR details view in GL
+Testing PR details view in GL
+Testing PR details view in GL
+
+Testing PR details view in GL
