@@ -192,3 +192,8 @@ Testing Link/Unlink 4
 Testing Link/Unlink 5
 
 Bug fix line
+
+
+
+DMO-6
+Testing Fine-Grained token permissions
