@@ -24,3 +24,10 @@ Entry(root, textvariable=url_address).pack(pady=5)
 Button(root, text="Copy URL", command=copyurl).pack(pady=5)
 
 root.mainloop()
+
+
+#Adding Core Function foundation
+#Adding Core Function foundation
+#Adding Core Function foundation
+
+#Adding Core Function foundation
