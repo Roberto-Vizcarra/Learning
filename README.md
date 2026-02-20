@@ -219,3 +219,6 @@ Testing Service Managemtn Project support
 
 #Adding Core Function foundation
 #Adding Core Function foundation
+
+
+Changes for testing read-only permissions in SOFT-1
