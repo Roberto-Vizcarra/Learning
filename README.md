@@ -222,3 +222,5 @@ Testing Service Managemtn Project support
 
 
 Changes for testing read-only permissions in SOFT-1
+
+Testing Smart Commit #resolveded #Comment Comment test via smart commit
