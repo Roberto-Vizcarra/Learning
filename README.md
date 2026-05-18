@@ -197,13 +197,7 @@ Testing Link/Unlink 4
 
 Testing Link/Unlink 5
 
-Bug fix line
-
-
-New Feature line
-New Feature line
-New Feature line
-New Feature line
+New Feature Line
 
 
 New Feature line
@@ -224,3 +218,13 @@ Testing Service Managemtn Project support
 Changes for testing read-only permissions in SOFT-1
 
 Testing Smart Commit #resolveded #Comment Comment test via smart commit
+
+
+New Feature Line
+New Feature Line
+New Feature Line
+
+
+New Feature Line
+
+New Feature Line
