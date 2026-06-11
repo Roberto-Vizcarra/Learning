@@ -220,4 +220,13 @@ Testing Service Managemtn Project support
 #Adding Core Function foundation
 #Adding Core Function foundation
 
+<<<<<<< HEAD
 #Testing push failure
+=======
+<<<<<<< HEAD
+
+Task1 for FRY-1
+=======
+#Testing push failure
+>>>>>>> ffa7e74 (testing syntax error)
+>>>>>>> 91b24c5 (testing syntax error)
