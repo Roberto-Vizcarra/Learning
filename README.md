@@ -230,3 +230,6 @@ Task1 for FRY-1
 #Testing push failure
 >>>>>>> ffa7e74 (testing syntax error)
 >>>>>>> 91b24c5 (testing syntax error)
+
+
+Testing push to branch
