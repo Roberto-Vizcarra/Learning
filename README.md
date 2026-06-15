@@ -221,6 +221,7 @@ Testing Service Managemtn Project support
 #Adding Core Function foundation
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Testing push failure
 =======
 <<<<<<< HEAD
@@ -233,3 +234,7 @@ Task1 for FRY-1
 
 
 Testing push to branch
+=======
+
+Task1 for FRY-1
+>>>>>>> Github/FRY-1-task-1
